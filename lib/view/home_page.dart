@@ -1,7 +1,7 @@
 import 'package:disney_app/data/api_data.dart';
 import 'package:disney_app/model/disney_character_model.dart';
 import 'package:disney_app/ui_classes/colors.dart';
-import 'package:disney_app/widgets/card.dart';
+import 'package:disney_app/widgets/character_card.dart';
 import 'package:flutter/material.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
 
